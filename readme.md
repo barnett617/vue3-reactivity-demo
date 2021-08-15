@@ -1,5 +1,15 @@
 # Vue3 Reactivity Programing demos
 
+## Dev
+
+```
+yarn
+```
+
+```
+yarn dev
+```
+
 ## CI
 
 ```
